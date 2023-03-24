@@ -1,1 +1,1 @@
-# Algoritmo-e-programa-o-estruturada
+# Algoritmo e programação estruturada

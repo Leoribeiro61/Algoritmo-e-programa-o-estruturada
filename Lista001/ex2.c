@@ -10,7 +10,7 @@ int main() {
     float Raio;
     float Area;
 
-    printf("Digite o valor do raio do circulo: \n ");
+    printf("Digite o valor do raio do circulo: \n");
     scanf("%f", &Raio);
 
     Area = PI * Raio * Raio; 

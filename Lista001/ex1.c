@@ -31,7 +31,7 @@ int main() {
     Lucro = ((Valor_venda - Custo_total) / Custo_total) * 100;
 
     printf("O custo total da mercadoria é: R$ %.2f\n", Custo_total);
-    printf("A porcentagem de lucro da mercadoria é de: %.2f%%\n", Lucro);
+    printf("A porcentagem de lucro da mercadoria é de: %.2f%% \n", Lucro);
 
     return 0;
 }

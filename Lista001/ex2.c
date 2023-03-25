@@ -7,8 +7,7 @@ e imprima a sua área.
 #define PI 3.14159
 
 int main() {
-    float Raio;
-    float Area;
+    float Raio, Area;
 
     printf("Digite o valor do raio do circulo: \n");
     scanf("%f", &Raio);

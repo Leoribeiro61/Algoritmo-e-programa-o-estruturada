@@ -18,7 +18,7 @@ int main() {
 
     Idade_em_dias = Anos * 365 + Meses * 30 + Dias;
 
-    printf("A sua idade em dias eh: %d\n", Idade_em_dias);
+    printf("A sua idade em dias e: %d\n", Idade_em_dias);
 
     return 0;
 }

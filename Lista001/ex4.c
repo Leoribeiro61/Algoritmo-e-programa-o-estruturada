@@ -11,7 +11,7 @@ int main() {
     printf("Digite a base do retangulo: \n ");
     scanf("%f", &Base);
 
-    printf("Digite a altura do retangulo: \n");
+    printf("Digite a altura do retangulo:\n");
     scanf("%f", &Altura);
 
     Area = Base * Altura;
